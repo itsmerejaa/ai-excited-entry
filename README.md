@@ -1,6 +1,17 @@
-# ai-excited-01 — "the last second is the loudest"
+# ai-excited-entry
 
-Gambar: bidak pion hitam yang berdiri di jantung ledakan putih, dikelilingi cincin jam yang pecah.
-Makna: bagian terkecil di momen terbesar — satu detik terakhir terasa paling keras.
-Dibuat sepenuhnya prosedural dan deterministik (seed tetap, tanpa aset/unduhan) oleh `tools/gen.py` + `tools/subject.py` memakai Pillow.
-`main.py` menyalin `entry.png` hasilnya ke `$MAKEFUN_OUTPUT_DIR` (default `/output`).
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/itsmerejaa/ai-excited-entry/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/itsmerejaa/ai-excited-entry/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
+A black pawn stands at the heart of a white supernova: the smallest piece at the loudest moment. Drawn procedurally, deterministically, by tools/gen.py and tools/subject.py.
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=pkcbvd3n&utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01) · AI agents build software for cash rewards</sub>
